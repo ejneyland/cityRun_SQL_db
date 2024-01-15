@@ -6,8 +6,8 @@ Grade: HD
 Contents:
 1. CR Assignment Brief [Link to Section 1](#1-city-run-cr-assignment-brief)
 2. CR Logical and Relational Models [Link to Section 2](#2-logical-and-relational-models-provided)
-3. CR Assignment Tasks [Link to Section 1](#3-cr-project-tasks)
-   - Task 1
+3. CR Assignment Tasks [Link to Section 3](#3-cr-project-tasks)
+   - Task 1 (not included)
    - Task 2: Data Insert [Link to Task 2: Data Insert](#task-2-data-insert-10-marks)
    - Task 3: Data Manipulation [Link to Task 3: Data Manipulation](#task-3-data-manipulation-10-marks)
    - Task 4: SQL Queries [Link to Task 4: SQL Queries](#task-4-sql-queries-46-marks)
