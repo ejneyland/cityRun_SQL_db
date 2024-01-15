@@ -1,6 +1,8 @@
 # cityRun_SQL_db
 City Run (CR) SQL Relational Database Project (individual)
+
 Project completed using Oracle SQL Developer
+
 Grade: HD
 
 Contents:
