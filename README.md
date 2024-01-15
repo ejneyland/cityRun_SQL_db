@@ -1,19 +1,22 @@
 # cityRun_SQL_db
-City Run (CR) SQL Database Project (individual)
+City Run (CR) SQL Relational Database Project (individual)
+Project completed using Oracle SQL Developer
+Grade: HD
 
 Contents:
-1. CR Assignment Brief
-2. CR Logical and Relational Models
-3. CR Assignment Tasks
+1. CR Assignment Brief [Link to Section 1](#1-city-run-cr-assignment-brief)
+2. CR Logical and Relational Models [Link to Section 2](#2-logical-and-relational-models-provided)
+3. CR Assignment Tasks [Link to Section 1](#3-cr-project-tasks)
    - Task 1
-   - Task 2: Data Insert
-   - Task 3: Data Manipulation
-   - Task 4: SQL Queries
-   - Task 5: Design Modifications
-   - Task 6: Non-Relational DB Queries
+   - Task 2: Data Insert [Link to Task 2: Data Insert](#task-2-data-insert-10-marks)
+   - Task 3: Data Manipulation [Link to Task 3: Data Manipulation](#task-3-data-manipulation-10-marks)
+   - Task 4: SQL Queries [Link to Task 4: SQL Queries](#task-4-sql-queries-46-marks)
+   - Task 5: Design Modifications [Link to Task 5: Design Modifications](#task-5-design-modifications-13-marks)
+   - Task 6: Non-Relational DB Queries [Link to Task 6: Non-Relational Database Queries - MongoDB](#task-6-non-relational-database-queries-mongodb-10-marks)
 
 .sql files in this repository are named in relation to tasks 1-6, e.g. T1_, T2_, T3_, etc.
 Each task and sub-task is outlined and described in contents section 3, under its respective task number.
+
 
 ## 1. City Run (CR) Assignment brief
 
