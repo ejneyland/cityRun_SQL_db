@@ -14,7 +14,7 @@ Contents:
    - [Task 3: Data Manipulation](#task-3-data-manipulation-10-marks)
    - [Task 4: SQL Queries](#task-4-sql-queries-46-marks)
    - [Task 5: Design Modifications](#task-5-design-modifications-13-marks)
-   - [Task 6: Non-Relational DB Queries - MongoDB](#task-6-non-relational-database-queries-mongodb-10-marks)
+   - [Task 6: Non-Relational DB Queries - MongoDB](#task-6-non-relational-database-queries-mongodb)
 
 .sql files in this repository are named in relation to tasks 1-6, e.g. T1_, T2_, T3_, etc.
 Each task and sub-task is outlined and described in contents section 3, under its respective task number.
@@ -196,7 +196,7 @@ This attribute must be initialised to the correct elapsed time based on the data
 c. When an emergency contact has been required to be contacted due to a problem with a competitor, there have been several instances of where the listed emergency contact has not been able to be contacted. To help alleviate this issue, City Run would like to be able to have a competitor, if they choose to do so, nominate more than one emergency contact.
 Change the database structure to allow this to occur.
 
-### TASK 6: Non Relational Database Queries - MongoDB (10 marks)
+### TASK 6: Non Relational Database Queries MongoDB
 
 Your answers for this task (Task 6) must be placed in the supplied sql file T6a-cr-json.sql and the supplied MongoDB script file T6b-cr-mongo.mongodb.js
 
