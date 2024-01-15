@@ -1,6 +1,21 @@
 # cityRun_SQL_db
+City Run (CR) SQL Database Project (individual)
 
-City Run (CR) brief
+Contents:
+1. CR Assignment Brief
+2. CR Logical and Relational Models
+3. CR Assignment Tasks
+   - Task 1
+   - Task 2: Data Insert
+   - Task 3: Data Manipulation
+   - Task 4: SQL Queries
+   - Task 5: Design Modifications
+   - Task 6: Non-Relational DB Queries
+
+.sql files in this repository are named in relation to tasks 1-6, e.g. T1_, T2_, T3_, etc.
+Each task and sub-task is outlined and described in contents section 3, under its respective task number.
+
+## 1. City Run (CR) Assignment brief
 
 City Run (CR) is a running carnival which is held on separate dates at various capital cities in Australia during different seasons (Summer, Autumn, Winter and Spring) of the year. 
 The carnival naming convention that City Run uses is CR <season name> Series <city name> <year>. 
@@ -38,13 +53,13 @@ Teams may also nominate a charity for which they will raise funds, although not 
 
 Note that an individual competitor may be supporting a charity as an individual and also the same or a different charity as a team member.
 
-## Logical and Relational models (provided):
+## 2. Logical and Relational models (provided):
 
 ![Alt Text](images/CR_logical_model.png)
 ![Alt Text](images/CR_relational_model.png)
 
 
-## CR Project Tasks
+## 3. CR Project Tasks
 
 ### Task 1: Relational Database Queries - Relational Algebra (6 marks):
 
