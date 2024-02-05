@@ -1,15 +1,13 @@
 # cityRun_SQL_db
 City Run (CR) SQL Relational Database Project (individual)
-
 Project completed using Oracle SQL Developer
-
 Grade: HD
 
 Contents:
 - [Section 1: CR Assignment Brief](#1-city-run-cr-assignment-brief)
 - [Section 2: CR Logical and Relational Models](#2-logical-and-relational-models-provided)
 - [Section 3: CR Assignment Tasks](#3-cr-project-tasks)
-   - Task 1 (not included)
+   - Task 1: Relational Algebra (NOT included in README - available to view in home directory)
    - [Task 2: Data Insert](#task-2-data-insert-10-marks)
    - [Task 3: Data Manipulation](#task-3-data-manipulation-10-marks)
    - [Task 4: SQL Queries](#task-4-sql-queries-46-marks)
