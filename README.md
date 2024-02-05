@@ -1,7 +1,7 @@
 # City Run SQL DB
-City Run (CR) SQL Relational Database Project (individual)
-Project completed using Oracle SQL Developer
-Grade: HD
+City Run (CR) SQL Relational Database Project 
+Individual Project (November 2023, G: HD)
+Project completed using Oracle SQL Developer + VSCode (for T6)
 
 Contents:
 - [Section 1: CR Assignment Brief](#1-city-run-cr-assignment-brief)
