@@ -1,6 +1,8 @@
 # City Run SQL DB
 City Run (CR) SQL Relational Database Project 
+
 Individual Project (November 2023, G: HD)
+
 Project completed using Oracle SQL Developer + VSCode (for T6)
 
 Contents:
