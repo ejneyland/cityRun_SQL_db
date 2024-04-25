@@ -5,6 +5,13 @@ Individual Project (November 2023, G: HD)
 
 Project completed using Oracle SQL Developer + VSCode (for T6)
 
+****** ****** ******
+The .sql files in the root directory of this repository are named in relation to tasks 1-6, e.g. T1_, T2_, T3_, etc.
+These .sql files contain the answers to each Task. Each task and sub-task is outlined and described 
+in contents section 3 of this README doc, under its respective task number.
+Visual representations of the data models used for this DB are also available in Section 2.
+****** ****** ******
+
 Contents:
 - [Section 1: CR Assignment Brief](#1-city-run-cr-assignment-brief)
 - [Section 2: CR Logical and Relational Models](#2-logical-and-relational-models-provided)
@@ -16,8 +23,6 @@ Contents:
    - [Task 5: Design Modifications](#task-5-design-modifications-13-marks)
    - [Task 6: Non-Relational DB Queries - MongoDB](#task-6-non-relational-database-queries-mongodb)
 
-.sql files in this repository are named in relation to tasks 1-6, e.g. T1_, T2_, T3_, etc.
-Each task and sub-task is outlined and described in contents section 3, under its respective task number.
 
 
 ## 1. City Run (CR) Assignment brief
